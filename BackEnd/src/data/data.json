@@ -1,0 +1,45 @@
+{
+  "users": [
+    {
+      "id": "a864c58c4a7cd8f6abff",
+      "name": "Dipak Dushing",
+      "email": "dushingdipak14@gmail.com",
+      "phoneno": "7066615061",
+      "password": "609e9e2a29038323fedb71c1e0a21484543e0b1c313f3232ecb8187baf172afc"
+    },
+    {
+      "id": "c8222f70d11fc1b658dc",
+      "name": "Dipak ",
+      "email": "dipakdushing96@gmail.com",
+      "phoneno": "7066615061",
+      "password": "609e9e2a29038323fedb71c1e0a21484543e0b1c313f3232ecb8187baf172afc"
+    }
+  ],
+  "todos": [
+   
+    {
+      "id": "a61a17089efe558ebb0e",
+      "title": "Learn Redux",
+      "status": "pending",
+      "userId": "a864c58c4a7cd8f6abff",
+      "createdAt": "2022-07-20T04:08:47.620Z"
+    },
+    {
+      "id": "ea5a0471aea6f0576170",
+      "title": "Learn React",
+      "status": "completed",
+      "userId": "a864c58c4a7cd8f6abff",
+      "createdAt": "2022-07-20T04:08:56.618Z"
+    }
+    
+  ],
+  "expiredTodos": [
+    {
+      "id": "c341f9d53ed6d019bb12",
+      "title": "Learn Java",
+      "userId": "c8222f70d11fc1b658dc",
+      "status": "pending",
+      "updatedAt": "2022-07-20T04:17:08.298Z"
+    }
+  ]
+}
